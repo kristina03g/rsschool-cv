@@ -11,7 +11,7 @@
 ## About me
 I am able to systematize and organize the actions necessary to solve the task. I work well in a team, I easily find contact with people. I am responsible, punctual, proactive, easy and quick to learn and ready for personal and professional growth.
 
-As part of her studies at the university, she carried out several educational projects:
+As part of studies at the university, carried out several educational projects:
 1) two Android applications in Java, SQLite;
 2) two web services in JavaScript, React, MySQL, node.js;
 3) research work on the topic "Development and research of technology for combining and identifying differences in three-dimensional scene models" in Python, Open3D, OpenMVG.
