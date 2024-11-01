@@ -1,3 +1,5 @@
+<img src="https://sun9-41.userapi.com/s/v1/ig2/6YW-gvY-JotYozAoSxyUnazIxvsQGqF6AnMxuBAn0ob1gGQ-w-TDyfFc72eKVZwE-YzUyvhTMaOoPNNEVj3q7lOY.jpg?quality=95&as=32x49,48x73,72x110,108x165,160x245,240x367,360x551,480x735,540x827,640x980,720x1102,750x1148&from=bu&u=wpmvN1NKRMDM72fNiak22dcqCf2MDTq5eI2-UteFZtI&cs=750x1148" width="375" height="574">
+
 # Kristina Guskova
 
 ## Contact
